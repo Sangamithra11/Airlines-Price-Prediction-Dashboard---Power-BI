@@ -1,9 +1,9 @@
-#Airlines Price Prediction Dashboard (Power BI)
+# Airlines Price Prediction Dashboard (Power BI)
 Project Overview
 
 This project presents an interactive Airlines Price Prediction Dashboard built using Power BI. The dashboard provides insights into airfare trends across multiple airlines, classes, and cities. It helps users analyze ticket prices, compare routes, and predict fare patterns based on booking behavior and travel details.
 
-##Key Features
+## Key Features
 
 Flight Analysis – Total flights, average prices, and class-wise distribution.
 
@@ -15,7 +15,7 @@ Time-based Trends – Impact of booking days left, departure time, and arrival t
 
 Interactive Filters – Select airline, class, source city, and destination city for personalized insights.
 
-##Tools & Technologies
+## Tools & Technologies
 
 Power BI Desktop – Data visualization and dashboard design
 
@@ -23,14 +23,14 @@ Excel / CSV Data – Airline ticket dataset
 
 Data Transformation – Power Query for cleaning and shaping data
 
-##Dashboard Preview
+## Dashboard Preview
 
 https://github.com/Sangamithra11/Airlines-Price-Prediction-Dashboard---Power-BI/blob/main/airlines.jpg
 
-##Objective
+## Objective
 
 To enable travelers, analysts, and businesses to understand flight pricing dynamics and make data-driven decisions on when and where to book flights for the best value.
 
-##Author
+## Author
 
-##Sangamithra R
+## Sangamithra R
