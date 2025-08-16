@@ -25,7 +25,7 @@ Data Transformation – Power Query for cleaning and shaping data
 
 ## Dashboard Preview
 
-https://github.com/Sangamithra11/Airlines-Price-Prediction-Dashboard---Power-BI/blob/main/airlines.jpg
+![Airlines Price Prediction Dashboard](https://github.com/Sangamithra11/Airlines-Price-Prediction-Dashboard---Power-BI/blob/main/airlines.jpg)
 
 ## Objective
 
